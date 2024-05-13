@@ -2,46 +2,6 @@
 
 ## Withdraw Funds
 
-Endpoint: `/api/withdraw`
-
-Description: This endpoint allows users to withdraw funds from their wallets.
-
-### Request
-
-```http
-POST /api/withdraw HTTP/1.1
-Host: example.com
-Content-Type: application/json
-Authorization: Bearer <access_token>
-
-{
-    "amount": 100,
-    "currency": "USD"
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# BankingApp
-
 The most important services that any bank provides to the clients is the ability to deposit and withdraw money,
 In this demo App there is an implementation of these two functions using :
 - Java 17
