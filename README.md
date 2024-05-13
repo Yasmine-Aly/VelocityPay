@@ -9,7 +9,7 @@ In this demo App there is an implementation of these two functions using :
 - Lombok
 - MySQL Workbench
 
-by using the dempApp you can :
+by using the demoApp you can :
 - Add new Bank Account
 - Deposit money
 - Withdraw money
@@ -17,7 +17,7 @@ by using the dempApp you can :
 - Get All Accounts
 - Get Account By Id
 
-API's endpoints:
+##API's endpoints:
 
 
 
@@ -40,4 +40,10 @@ API's endpoints:
 
 
 ▪ Delete              : DELETE http://localhost:8080/api/accounts/{accountId}
+
+
+##Features
+* Transfer money to other users of the application.
+* Request money from other users of the application.
+* Generate a virtual visa card for bill payment and online shopping.
 
