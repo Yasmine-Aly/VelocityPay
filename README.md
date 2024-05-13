@@ -41,8 +41,7 @@ by using the demoApp you can :
 
 ▪ Delete              : DELETE http://localhost:8080/api/accounts/{accountId}
 
-
-##Features
+##  Features
 * Transfer money to other users of the application.
 * Request money from other users of the application.
 * Generate a virtual visa card for bill payment and online shopping.
