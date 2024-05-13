@@ -1,6 +1,5 @@
 # Wallet API Documentation
 
-## Withdraw Funds
 
 The most important services that any bank provides to the clients is the ability to deposit and withdraw money,
 In this demo App there is an implementation of these two functions using :
